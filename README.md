@@ -1,4 +1,4 @@
-# Muvitomatic for PsyPlay Themes
+# IndoXXI Themes Wordpress
 Automatic / Auto Post Movie & Series Just one click.
 AGC Plugin for Wordpress Movie.
 
